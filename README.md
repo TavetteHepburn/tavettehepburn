@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Tavette!
+
+My interests include programming, Linux, and open source. 
+
+🏥 Currently working in Healthcare
+👩🏽‍🎓 Computer Science student at The University of The People
+
+
+[![Tavette's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavettehepburn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TavetteHepburn/tavettehepburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
